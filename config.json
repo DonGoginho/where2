@@ -3,7 +3,7 @@
 	"docs": {
 		"description": "Where2 turns static GeoJSON files into queryable APIs. This Demo allows you to query selected GeoJSON-files from <a href='https://data.stadt-zuerich.ch'>Open Data Zürich</a>. Look <a href='https://github.com/fidelthomet/where2'>here</a> to find out more on how to set up your own Where2-API with your datasets.",
 		"title": "MyWhere2 Bäume Bonn",
-		"map_center": [50.679, 7.161],
+		"map_center": [50.737120, 7.097532],
 		"map_zoom": 13
 	},
 	"data": [{
