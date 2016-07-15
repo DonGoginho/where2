@@ -7,7 +7,7 @@
 		"map_zoom": 13
 	},
 	"data": [{
-		"name": "Hamburg - Strassenbaumkataster",
+		"name": "Hamburg_Strassenbaumkataster",
 		"url": "https://statistik.stadt-zuerich.ch/modules/ogd_bspe/tests/baumkataster_DE/baumkataster_Hamburg2015.json"
 	}],
 	"server_port": "33333",
