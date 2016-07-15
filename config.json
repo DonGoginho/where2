@@ -11,6 +11,10 @@
 		"url": "http://stadtplan.bonn.de/geojson?Thema=21367&koordsys=4326&bcsi_scan_9f63cdcfd95153bf=bzJoMNg+lUrDEqvCpeTFZPHsqMNAAAAAaw059Q==:1"
 	},
 	{
+		"name": "BonnOeffentlicheToiletten",
+		"url": "http://stadtplan.bonn.de/geojson?Thema=20904&koordsys=4326"
+	},
+	{
 		"name": "BonnSpielplätze",
 		"url": "http://stadtplan.bonn.de/geojson?Thema=14419&koordsys=4326"
 	}],
