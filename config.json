@@ -1,5 +1,5 @@
 {
-	"host": "https://where2demo.herokuapp.com",
+	"host": "https://mywhere2.herokuapp.com",
 	"docs": {
 		"description": "Where2 turns static GeoJSON files into queryable APIs. This Demo allows you to query selected GeoJSON-files from <a href='https://data.stadt-zuerich.ch'>Open Data Zürich</a>. Look <a href='https://github.com/fidelthomet/where2'>here</a> to find out more on how to set up your own Where2-API with your datasets.",
 		"title": "MyWhere2 Bäume Hamburg",
@@ -9,19 +9,6 @@
 	"data": [{
 		"name": "Hamburg - Strassenbaumkataster",
 		"url": "https://statistik.stadt-zuerich.ch/modules/ogd_bspe/tests/baumkataster_DE/baumkataster_Hamburg2015.json"
-	},{
-		"name": "Zürich -Baumkataster",
-		"url": "https://data.stadt-zuerich.ch/storage/f/baumkataster/baumkataster.json",
-		"schedule": "3 10 1 * *",
-		"schema": {
-			"Baumname_D": "TEXT",
-			"Baumname_LAT": "TEXT",
-			"Strasse": "TEXT",
-			"Baumnummer": "TEXT",
-			"Baumart_LAT": "TEXT",
-			"Pflanzjahr": "INT",
-			"Baumgattung": "TEXT"
-		}
 	}],
 	"server_port": "33333",
 	"data_dir": "data/",
