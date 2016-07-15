@@ -8,8 +8,7 @@
 	},
 	"data": [{
 		"name": "Hamburg - Strassenbaumkataster",
-		"url": "https://statistik.stadt-zuerich.ch/modules/ogd_bspe/tests/baumkataster_DE/baumkataster_Hamburg2015.json",
-		"schedule": "3 0 1 * *"
+		"url": "https://statistik.stadt-zuerich.ch/modules/ogd_bspe/tests/baumkataster_DE/baumkataster_Hamburg2015.json"
 	},{
 		"name": "Zürich -Baumkataster",
 		"url": "https://data.stadt-zuerich.ch/storage/f/baumkataster/baumkataster.json",
