@@ -3,20 +3,20 @@
 	"docs": {
 		"description": "Where2 turns static GeoJSON files into queryable APIs. This Demo allows you to query selected GeoJSON-files from <a href='https://data.stadt-zuerich.ch'>Open Data Zürich</a>. Look <a href='https://github.com/fidelthomet/where2'>here</a> to find out more on how to set up your own Where2-API with your datasets.",
 		"title": "Open Data Zürich using Where2-Api by Fidel Thomet",
-		"map_center": [50.737120, 7.097532],
+		"map_center": [47.3695, 8.5426],
 		"map_zoom": 13
 	},
 	"data": [{
-		"name": "BonnBaumstandorte",
-		"url": "http://stadtplan.bonn.de/geojson?Thema=21367&koordsys=4326&bcsi_scan_9f63cdcfd95153bf=bzJoMNg+lUrDEqvCpeTFZPHsqMNAAAAAaw059Q==:1"
+		"name": "Meldungen von «Züri wie Neu»",
+		"url": "https://data.stadt-zuerich.ch/storage/f/zueriwieneu_meldungen/zueriwieneu_meldungen.json"
 	},
 	{
-		"name": "BonnOeffentlicheToiletten",
-		"url": "http://stadtplan.bonn.de/geojson?Thema=20904&koordsys=4326"
+		"name": "Abfallgefässe Stadt Zürich",
+		"url": "https://data.stadt-zuerich.ch/storage/f/abfallgefaess/abfallgefaess.json"
 	},
 	{
-		"name": "BonnSpielplätze",
-		"url": "http://stadtplan.bonn.de/geojson?Thema=14419&koordsys=4326"
+		"name": "Statistische Zonen Stadt Zürich",
+		"url": "https://data.stadt-zuerich.ch/storage/f/stat_zonen/statistische_zonen.json"
 	}],
 	"server_port": "33333",
 	"data_dir": "data/",
