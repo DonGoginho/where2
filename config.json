@@ -7,11 +7,11 @@
 		"map_zoom": 13
 	},
 	"data": [{
-		"name": "Meldungen von Züri wie Neu",
+		"name": "MeldungenZueriWieNeu",
 		"url": "https://data.stadt-zuerich.ch/storage/f/zueriwieneu_meldungen/zueriwieneu_meldungen.json"
 	},
 	{
-		"name": "Abfallgefässe Stadt Zürich",
+		"name": "AbfallgefaesseStadtZuerich",
 		"url": "https://data.stadt-zuerich.ch/storage/f/abfallgefaess/abfallgefaess.json"
 	}],
 	"server_port": "33333",
