@@ -13,6 +13,11 @@
 	{
 		"name": "AbfallgefaesseStadtZuerich",
 		"url": "https://data.stadt-zuerich.ch/storage/f/abfallgefaess/abfallgefaess.json"
+	},
+	
+	{
+		"name": "StatistischeZonen",
+		"url": "https://data.stadt-zuerich.ch/storage/f/stat_zonen/statistische_zonen.json"
 	}],
 	"server_port": "33333",
 	"data_dir": "data/",
