@@ -8,16 +8,16 @@
 	},
 	"data": [{
 		"name": "MeldungenZueriWieNeu",
-		"url": "https://data.stadt-zuerich.ch/storage/f/zueriwieneu_meldungen/zueriwieneu_meldungen.json"
+		"url": "https://data.stadt-zuerich.ch/dataset/zueriwieneu_meldungen/resource/2fee5562-1842-4ccc-a390-c52c9dade90d/download/zueriwieneumeldungen.json"
 	},
 	{
 		"name": "AbfallgefaesseStadtZuerich",
-		"url": "https://data.stadt-zuerich.ch/storage/f/abfallgefaess/abfallgefaess.json"
+		"url": "https://data.stadt-zuerich.ch/dataset/abfallgefaess/resource/0ade5bc8-e363-466e-a29d-81759b00f387/download/abfallgefaess.json"
 	},
 	
 	{
 		"name": "StatistischeZonen",
-		"url": "https://data.stadt-zuerich.ch/storage/f/stat_zonen/statistische_zonen.json"
+		"url": "https://data.stadt-zuerich.ch/dataset/abfallgefaess/resource/0ade5bc8-e363-466e-a29d-81759b00f387/download/abfallgefaess.json"
 	}],
 	"server_port": "33333",
 	"data_dir": "data/",
