@@ -19,8 +19,8 @@
 		"url": "https://data.stadt-zuerich.ch/dataset/adressen/resource/a50223d2-2aff-41ec-8bbf-e5f0003e33fd/download/adressen.json"
 	},		 
 	{
-		"name": "Abfallgefässe",
-		"url": "https://data.stadt-zuerich.ch/dataset/abfallgefaess/resource/0ade5bc8-e363-466e-a29d-81759b00f387/download/abfallgefaess.json"
+		"name": "Gastwirtschaftsbetriebe",
+		"url": "https://data.stadt-zuerich.ch/dataset/b2c829d4-9d4b-4741-a944-242c28f00b2a/resource/7c6ef847-6436-44c2-afb2-1f4232ca8f95/download/gastwirtschaftsbetriebeper20151231.geojson"
 	},	
 	{
 		"name": "StatistischeZonen",
